@@ -13,13 +13,12 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &amp;name "Junteng Liu"
 description              : &amp;description "Junteng Liu's academic portfolio"
-url                      : https://ghtarecrissa-bot.github.io
+url                      : "https://ghtarecrissa-bot.github.io"
 baseurl                  : "/LJT-Homepage"
 repository               : "ghtarecrissa-bot/LJT-Homepage"
 
 # Site Author
 author:
-  # Biographic information
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         :
